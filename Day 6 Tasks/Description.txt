@@ -1,0 +1,17 @@
+1- Overload equal operator in stack class;
+
+
+2- Implement all operator overloading in Class Complex;
+
+
+3- Design and Implement Class Picture , Class Point, Class Circle, Class Rectangle and Class Line , to draw any shape individually or draw a whole picture using aggregation and composition relationships between classes;
+
+
+4- Implementing GeometricShape Base Class as Parent Class for Circle , Triangle and Rectangle and Square Classes to calculate the Area of geometric shapes;
+
+
+
+5- GeometricShape Base Class implemented as Abstract Class having CalculateArea() method as pure virtual method;
+
+
+6-Implementing Class Shape as Abstract class having general properties and methods for any shape and Base Class for Class Circle, Class Line and Class Rectangle . Class Picture having Aggregation relationship with class Shape with Array of pointers of shapes that are allocated in Runtime;
