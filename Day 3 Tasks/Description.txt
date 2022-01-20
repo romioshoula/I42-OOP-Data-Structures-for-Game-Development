@@ -1,0 +1,6 @@
+1- Implement Bubble sort and Selection sort on array of integers
+2- Implement Binary search on array of integers 
+3- Implement all functions on double linked list of Employees (Optional)
+4- Insert employees sorted in linked list 
+5- Stack (Push, Pop functions) using double linked list
+6- Queue (Add, Retrieve functions ) using double linked list
