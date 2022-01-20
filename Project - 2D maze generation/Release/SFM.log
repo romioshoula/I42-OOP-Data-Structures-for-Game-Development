@@ -1,0 +1,168 @@
+﻿  RandomMazeGenerator_main.cpp
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(318,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(318,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(424,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(425,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(465,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(465,26): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(470,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(470,27): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(546,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(546,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(561,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(561,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(577,38): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(578,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(581,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(582,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(587,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(588,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(591,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(592,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(597,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(598,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(601,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(602,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(607,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(608,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(611,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(612,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(622,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(625,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(628,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_header.h(631,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sarah\source\Maze\Mazes-master - Copy\RandomMazeGenerator_main.cpp(86,21): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 391 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFM.vcxproj -> C:\Users\Sarah\source\Maze\Mazes-master - Copy\Release\SFML_proj.exe
