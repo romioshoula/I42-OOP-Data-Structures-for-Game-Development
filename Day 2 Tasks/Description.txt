@@ -1,0 +1,26 @@
+1-Write a console application that declare array of struct employee.The application display a switch menu of 5 options:
+                Add new Employee
+                Add Employee by Index
+                Display Employee by index
+                Display All Employees
+                Exit
+              The application should be written down into functions .
+
+
+2- Declare an array of employees in Task 1 using dynamic allocation.
+
+
+
+
+3- Use pointers to implement Line editor , where default user enter character and the the following keys are handled:
+ Left, Right arrows to go left and right on written characters 
+ Home , End  to go at beginning and end of line
+ Enter display entered characters and ESC keys exit application
+ The lineeditor should be a function having an array of characters size as input from user.User shouldn’t be allowed to exceed the maximum number of allowed characters.
+
+
+
+
+
+
+4- Implement a Multiline editor using Pointer to pointers
