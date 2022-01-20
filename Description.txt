@@ -1,0 +1,14 @@
+1- Print “Hello World”
+2- Print ASCII code  user-input character
+3- Implement Magic box algorithm on numbers from 1-9 , so that numbers are displayed , sum of any row equals sum of any column equals 15 . 
+4- Implement Magic box , asking the user to input the size of the box , where the input size number should be an odd number. Make the suitable changes to the display so that it would fit numbers if the size of the box was a large number.
+
+
+
+5- Write a console program to display a switch menu of 5 options:
+Calculate the Sum and the Average of an array of integers
+Print Hello World
+Find the tallest and the shortest sentences of the user-input sentences
+Find the Treasure Game 
+Exit
+(The user should navigate through the menu using UP arrow, Down arrow, Home, and End to highlight the option and Escape to Exit. Once the desired choice is highlighted, the user can press Enter to select it.)
